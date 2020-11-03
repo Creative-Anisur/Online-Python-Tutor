@@ -2,5 +2,6 @@
 Online Python Tutor is available to you anywhere you have access to the internet. 
 Registration is not required, but you can track your progress while learning Python.
 From their site if you do register: 
-http://cscircles.cemc.uwaterloo.ca/visualize which has a nice Python tutorial.
+http://cscircles.cemc.uwaterloo.ca/visualize 
+Which has a nice Python tutorial.
 This is not an endorsement.
